@@ -1,10 +1,10 @@
-# loginout
+# Loginout
 script zu protokollieren login und logout in eine computer
 
-# Anmeldung
+# anmeldung.py
 Schreibt eine linie in CSV Datei mit der Anfang zeit.
 
-# Abmeldung
+# abmeldung.py
 Schreibt in die angefangene linie von Anmeldung die Abmeldungszeit
 
 # Nutzung:
